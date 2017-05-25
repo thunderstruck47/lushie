@@ -1,6 +1,6 @@
-### lushy
+### lushie
 
-## To Do
+# To Do
 * fix Procfile
 * Models
 * CRUD
